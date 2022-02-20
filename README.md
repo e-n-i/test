@@ -12,7 +12,7 @@ for i in range(1,10,1):
 | parancs | jelentés |
 | --------|:--------:|
 |print()|nyomtatás|
-|len()|hossz meghatásozás
+|len()|hossz meghatásozás|
 
 A Python jó, mert:
 - sok funkció a nyelvben már készen vár, például:
