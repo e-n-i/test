@@ -20,3 +20,4 @@ A Python jó, mert:
  2. Minimumkeresés 
  
 ![kígyó](https://www.thesun.co.uk/wp-content/uploads/2019/08/NINTCHDBPICT000516641595-e1567035622726.jpg?w=960) 
+
